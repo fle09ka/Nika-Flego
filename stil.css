@@ -1,0 +1,17 @@
+@charset "utf-8" ;
+/* CSS Document */
+
+	
+img {
+	height: 200px;
+	
+}
+
+ body { background: rgb(143,104,172);
+background: radial-gradient(circle, rgba(143,104,172,1) 0%, rgba(108,227,225,0.8382703423166141) 83%);
+	 font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 text-align: center}
+h1 {border-style: groove;
+color:gold}
+h2 {border-style: dotted;
+color:dimgrey}
